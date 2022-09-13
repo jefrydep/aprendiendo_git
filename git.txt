@@ -7,3 +7,5 @@ cuenta de git;
 1: git init   (para inicializar git)
 2: git add.  (para agregar)
 3: git commit -m "primer comit" (para hacer el comit)
+
+agrefando un nuevo cambio en el main
